@@ -37,16 +37,13 @@ body {
   margin: 20px auto 20px auto;
 }
 
-#randomSubmit {
+#randomSubmit,
+#titleSubmit {
   margin: 10px;
 }
 
 #randomResult {
   padding: 80px;
-}
-
-#forecastResults {
-  padding: 20px;
 }
 
 @media (min-width: 48em) {
